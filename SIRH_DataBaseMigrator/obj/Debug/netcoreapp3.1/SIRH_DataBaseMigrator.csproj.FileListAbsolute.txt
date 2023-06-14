@@ -1,0 +1,16 @@
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.deps.json
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.runtimeconfig.json
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.runtimeconfig.dev.json
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.dll
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.pdb
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.csproj.AssemblyReference.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.AssemblyInfoInputs.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.AssemblyInfo.cs
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.csproj.CoreCompileInputs.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.dll
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.pdb
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.genruntimeconfig.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBase.dll
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\bin\Debug\netcoreapp3.1\SIRH_DataBase.pdb
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBaseMigrator\obj\Debug\netcoreapp3.1\SIRH_DataBaseMigrator.csproj.CopyComplete

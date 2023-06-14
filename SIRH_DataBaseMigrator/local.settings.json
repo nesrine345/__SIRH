@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    //Nesrine
+    "DefaultConnection": "Server=DESKTOP-L3EI29B;Database=SIRH_Database;Trusted_Connection=True;MultipleActiveResultSets=true"
+
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\bin\Debug\netcoreapp3.1\SIRH_DataBase.deps.json
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\bin\Debug\netcoreapp3.1\SIRH_DataBase.dll
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\bin\Debug\netcoreapp3.1\SIRH_DataBase.pdb
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.csproj.AssemblyReference.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.AssemblyInfoInputs.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.AssemblyInfo.cs
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.dll
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.pdb
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\bin\Debug\netcoreapp3.1\SIRH_DataBase.runtimeconfig.json
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\bin\Debug\netcoreapp3.1\SIRH_DataBase.runtimeconfig.dev.json
+C:\Users\Nesrine\Source\Repos\SIRH\SIRH_DataBase\obj\Debug\netcoreapp3.1\SIRH_DataBase.genruntimeconfig.cache
