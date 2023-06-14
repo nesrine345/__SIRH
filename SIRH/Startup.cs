@@ -68,11 +68,6 @@ namespace SIRH
             {
                 app.UseHsts();
             }
-            app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
-            });
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
